@@ -1,0 +1,12 @@
+if you were given a value of 0.5 for x and and a an error tolerance of 0.001, the calculated terms would be the following:
+Term 1 1 0.333333
+Term 2 0.5 0.166667
+Term 3 0.75 0.0833333
+Term 4 0.625 0.0416667
+Term 5 0.6875 0.0208333
+Term 6 0.65625 0.0104167
+Term 7 0.671875 0.00520833
+Term 8 0.664063 0.00260417
+Term 9 0.667969 0.00130208
+Term 10 0.666016 0.000651042
+You stop calculating the geometric series after the 10th term because the calculated error is less than 0.001.
